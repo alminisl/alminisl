@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 🔭 I’m currently working on [hedlajn.info](https://www.hedlajn.info/), [Azeroth Weather](https://www.azerothweather.com/) and [SplitStream](https://splitstream.net/)
-- 🌱 I’m currently learning IoT things
+- 🌱 I’m currently learning Cloud stuff and GoLang 
 - 📃 Visit my [Blog](https://blog.almin.dev)
 - 💬 Ask me about anything ?
 - 📫 How to reach me: almin.islamovic@gmail.com

@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **alminisl/alminisl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [brackcheck.com](https://brackcheck.com)
 - 📃 Visit my [Blog](https://blog.almin.dev)
 
-## 🌐 How to reach me
+### 🌐 How to reach me
 
 [![Website](https://img.shields.io/badge/almin.dev-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://almin.dev)
 
@@ -20,7 +20,7 @@ Mail:  almin.islamovic@gmail.com
 
 ---
 
-## 🧙 About Me
+### 🧙 About Me
 
 - 🗡️ Sword fighting & HEMA enthusiast
 - 🚴 Love biking adventures
@@ -29,5 +29,4 @@ Mail:  almin.islamovic@gmail.com
 ---
 
 ![Almin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alminisl&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alminisl&layout=compact&theme=radical)

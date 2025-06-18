@@ -29,4 +29,5 @@ Mail:  almin.islamovic@gmail.com
 ---
 
 ![Almin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alminisl&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alminisl&layout=compact&theme=radical)

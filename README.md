@@ -7,8 +7,13 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 -->
-- 🔭 I’m currently working on [brackcheck.com](https://brackcheck.com)
-- 📃 Visit my [Blog](https://blog.almin.dev)
+
+I've been a software developer for over 9 years, specializing in web technologies and building scalable applications. Currently working as a Senior Frontend Developer, with a passion for creating efficient and elegant solutions.
+
+🔭 I’m currently working on [brackcheck.com](https://brackcheck.com)
+📃 Visit my [Blog](https://blog.almin.dev)
+
+---
 
 ### 🌐 How to reach me
 

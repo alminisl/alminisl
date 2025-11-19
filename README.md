@@ -26,7 +26,7 @@ Working on **[brackcheck.com](https://brackcheck.com)** and **[journaspace.com](
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alminisl&show_icons=true&theme=minimal&hide_border=true&hide_title=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=alminisl&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" height="150">
 </div>
 
 ---

@@ -1,21 +1,4 @@
-<!-- Pixel Knight Banner -->
-<div align="center">
-  
-```
-    ⚔️ Welcome, Noble Visitor! ⚔️
-    
-         ,-.
-        / |  .-.
-       *  |-<  ⚔️
-        \ |  '-'
-         `-'
-       [===]
-        | |
-       /   \
-      /     \
-```
 
-</div>
 
 # Hi, I'm Almin! 👋
 

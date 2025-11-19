@@ -10,19 +10,18 @@ Senior Frontend Developer with 9+ years of experience building scalable web appl
 
 ## Current Project
 
-Working on **[brackcheck.com](https://brackcheck.com)** - Building something great
+Working on **[brackcheck.com](https://brackcheck.com)** and **[journaspace.com](https://journaspace.com/)**
 
 ## Tech Stack
 
-**Frontend:** TypeScript, React, Next.js, Vue.js  
-**Backend:** Node.js, Python, PostgreSQL, MongoDB  
-**Tools:** Docker, Git, TDD, Clean Architecture
+**Frontend:** TypeScript, React, Next.js, Vue.js
+**Backend:** Node.js, Python, PostgreSQL, MongoDB, Golang
 
 ## Beyond Code
 
 - 🗡️ **HEMA** - Historical European Martial Arts practitioner
 - 🚴 **Cycling** - Long-distance touring and trail exploration  
-- 🃏 **MTG** - Commander format enthusiast
+- 🃏 **MTG** - Commander enthusiast, making way too many decks.. 
 
 ---
 

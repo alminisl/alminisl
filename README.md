@@ -24,11 +24,3 @@ Working on **[brackcheck.com](https://brackcheck.com)** and **[journaspace.com](
 - 🃏 **MTG** - Commander enthusiast, making way too many decks.. 
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alminisl&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" height="150">
-</div>
-
----
-
-<sub>*"The best code is like a well-balanced sword - sharp, elegant, and purposeful."*</sub>

@@ -1,7 +1,7 @@
 
 # Hi, I'm Almin 👋
 
-<img src="https://gist.github.com/krushndayshmookh/9fb70798bb71b38fd7ec9cee788b8c7c/raw/4d74ce241b1a24864bbf9ea1733f8f142490a5c6/bongo-cat.gif" width="100" alt="Bongo Cat"/>
+<img src="./bongo-cat.gif" width="100" alt="Bongo Cat"/>
 
 Senior Frontend Developer with 9+ years of experience building scalable web applications.
 

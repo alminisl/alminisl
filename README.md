@@ -12,9 +12,9 @@ Senior Frontend Developer with 9+ years of experience building scalable web appl
 
 ## Current Projects
 
-**[brackcheck.com](https://brackcheck.com)** - Tournament bracket management platform
+**[brackcheck.com](https://brackcheck.com)** - Magic The Gathering Deck analyzer and collection management
 
-**[filenest.tech](https://filenest.tech)** - File management solution
+**[filenest.tech](https://filenest.tech)** - Automatically sorts files into selected folders
 
 ### Coming Soon
 

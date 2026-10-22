@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="mascot-sleep.gif">
-  <img align="right" width="300" src="mascot-work.gif" alt="Voxel Almin at his desk, typing on a laptop next to a Magic: The Gathering deck and a plant. In dark mode he is asleep on the keyboard with the desk lamp on.">
-</picture>
+<img align="right" width="300" src="mascot-work.gif" alt="Voxel Almin at his desk, typing on a laptop next to a Magic: The Gathering deck and a plant.">
 
 # Almin Islamović <sup>✦</sup>
 
@@ -12,8 +9,6 @@ Software engineer in Vienna. Ten years of backend systems, frontends, and side p
 ![Now](https://img.shields.io/badge/Now-Senior%20Software%20Engineer%20at%20Further-e8401c?style=flat&labelColor=1c1a17)
 
 [![almin.dev](https://img.shields.io/badge/%E2%9C%A6%20almin.dev-1c1a17?style=flat)](https://almin.dev) [![Blog](https://img.shields.io/badge/Blog-1c1a17?style=flat&logo=astro&logoColor=white)](https://blog.almin.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat)](https://www.linkedin.com/in/alminislamovic/) [![Email](https://img.shields.io/badge/Email-1c1a17?style=flat&logo=gmail&logoColor=white)](mailto:almin.islamovic@gmail.com)
-
-<sub>The voxel me is borrowed from <a href="https://almin.dev">almin.dev</a>, where he follows the clock in Vienna: typing on weekdays, playing Magic on weekends, asleep at night. Switch GitHub to dark mode and he is asleep here too.</sub>
 
 <br clear="right">
 
